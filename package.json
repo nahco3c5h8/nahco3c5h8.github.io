@@ -1,0 +1,14 @@
+{
+  "name": "hotel-lobby",
+  "version": "1.0.0",
+  "description": "Setting up a basic Tailwind site for my friend to clone and use with GitHub Pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
